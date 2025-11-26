@@ -2,7 +2,7 @@
 Playground Series - Season 5, Episode 11
 
 Used CatBoost and RandomForest on different variance of data preprocessing with RandomSearch and GridSearch tuning.  
-**Best score: ROC-AUC 0.92349; CatBoost with hyperparameter tuning and StandardScaler/Label Encoding on dataset. (CB_params_y_sub.csv)**
+**Best score: ROC-AUC 0.92357; CatBoost with hyperparameter tuning and StandardScaler/Label Encoding on dataset. (CB_params_1600_y_sub.csv)**
 
 ### Data: https://drive.google.com/drive/folders/1i_EdfGUfGBr919q38HCFF9431vEGxI82?usp=sharing 
 * train.csv/test.csv/sample_submission.csv
