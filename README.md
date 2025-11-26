@@ -11,3 +11,6 @@ Used CatBoost and RandomForest on different variance of data preprocessing with 
 * \**without "_params"*\* - X_train, y_train, X_test, y_test and dictionary with preprocessing models (SMOTE, le_scaler, ohe_scaler, StandardScaler)
 * ..._y_sub.joblib - y_test probabilities from different models for submission.
   * final_... - final experiment with CatBoost without iterations and SMOTE, log transformation, categorical data scalers. 
+
+
+![Rating](image.png)
